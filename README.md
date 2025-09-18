@@ -56,8 +56,7 @@ pure_pursuit_working/
 
 A prebuilt Docker image with the Pure Pursuit package integrated is available on Docker Hub:
 
-[f1tenth_gym_ros_with_pure_pursuit](https://hub.docker.com/repository/docker/belal0066/f1tenth_gym_ros_with_pure_pursuit/general)
-
+[f1tenth_gym_ros_with_pure_pursuit](https://hub.docker.com/r/belal0066/f1tenth_gym_ros_with_pure_pursuit)
 Use this image to quickly run the F1TENTH simulator and controller:
 
 ```bash
