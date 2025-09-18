@@ -1,4 +1,4 @@
-# Pure Pursuit Controller for F1TENTH Simulation
+[Screencast from 2025-09-18 05-01-14.webm](https://github.com/user-attachments/assets/32a16682-66d3-4a3e-b578-c0dcc16116ab)# Pure Pursuit Controller for F1TENTH Simulation
 
 ## Overview
 
@@ -6,6 +6,9 @@ This package implements a **Pure Pursuit** path tracking controller for the F1TE
 Pure Pursuit is a geometrically based lateral control algorithm that computes steering commands to follow a reference path defined by waypoints.  
 The controller subscribes to odometry and publishes drive commands (`AckermannDriveStamped`) for the simulated racecar.
 
+[Screencast from 2025-09-18 05-01-14.webm](https://github.com/user-attachments/assets/2448e7f0-a333-4d62-8cbb-e63f5aaa8ccd)
+
+ 
 ***
 
 ## How It Works
