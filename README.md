@@ -21,9 +21,7 @@ The controller receives:
 2. **Select a “lookahead” waypoint** at a fixed distance ahead on the path.
 3. **Transform the lookahead point** into the vehicle's coordinate frame.
 4. **Calculate curvature and steering angle** using the Pure Pursuit formula:  
-   $$
-     \delta = \arctan\left(\frac{2L \sin(\alpha)}{l_d}\right)
-   $$  
+   $$\delta = \arctan\left(\frac{2L \sin(\alpha)}{l_d}\right)$$  
    where $$L$$ is the wheelbase, $$\alpha$$ is the angle to the lookahead point, and $$l_d$$ is the lookahead distance.
 5. **Publish steering and speed commands** to drive the car along the reference trajectory.
 
