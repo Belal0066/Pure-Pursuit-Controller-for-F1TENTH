@@ -1,0 +1,8 @@
+pure_pursuit_node:
+  ros__parameters:
+    csv_path: "/sim_ws/src/f1tenth_racetracks/Austin/Austin_centerline.csv"
+    lookahead_distance: 1.5
+    speed: 3.0
+    wheelbase: 0.3302
+    max_steering_angle: 0.4189
+
