@@ -1,4 +1,4 @@
-[Screencast from 2025-09-18 05-01-14.webm](https://github.com/user-attachments/assets/32a16682-66d3-4a3e-b578-c0dcc16116ab)# Pure Pursuit Controller for F1TENTH Simulation
+# Pure Pursuit Controller for F1TENTH Simulation
 
 ## Overview
 
